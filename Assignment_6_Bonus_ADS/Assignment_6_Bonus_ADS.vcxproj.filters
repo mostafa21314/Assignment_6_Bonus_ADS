@@ -18,5 +18,27 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Graphs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Graphs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Edge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Desktop\AUC\Applied Data Structures\Assignments Applied data structures\Assignment_6_Bonus_ADS\2211Asn6F23\Sample.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Desktop\AUC\Applied Data Structures\Assignments Applied data structures\Assignment_6_Bonus_ADS\2211Asn6F23\CitiesG.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Desktop\AUC\Applied Data Structures\Assignments Applied data structures\Assignment_6_Bonus_ADS\2211Asn6F23\TestG.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -128,6 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Graphs.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Edge.h" />
+    <ClInclude Include="Graphs.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Desktop\AUC\Applied Data Structures\Assignments Applied data structures\Assignment_6_Bonus_ADS\2211Asn6F23\CitiesG.txt" />
+    <Text Include="..\..\..\..\Desktop\AUC\Applied Data Structures\Assignments Applied data structures\Assignment_6_Bonus_ADS\2211Asn6F23\Sample.txt" />
+    <Text Include="..\..\..\..\Desktop\AUC\Applied Data Structures\Assignments Applied data structures\Assignment_6_Bonus_ADS\2211Asn6F23\TestG.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
